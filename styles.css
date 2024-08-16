@@ -32,7 +32,7 @@ button{
     border-radius:  50px;
     border:  3px solid black;
     background-color: grey;
-    color: white;
+    color: pink;
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
@@ -44,7 +44,7 @@ button:active{
     background-color: rgb(185, 185, 185);
 }
 .operator-btn{
-    background-color: orange;
+    background-color: light_blue;
 }
 .operator-btn:hover{
     background-color: rgb(198, 128, 0);
